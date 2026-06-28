@@ -1,21 +1,28 @@
-8-Bit ALU in Verilog
-📌 Overview
-This project presents an 8-bit Arithmetic Logic Unit (ALU) designed in Verilog HDL and verified using a custom testbench in Xilinx Vivado. The ALU executes essential arithmetic and logical operations controlled by a 3-bit sel signal, making it a core building block for digital processors.
+🚀 8-Bit Arithmetic Logic Unit (ALU) using Verilog
+📌 Project Overview
+This project focuses on the implementation of an 8-Bit Arithmetic Logic Unit (ALU), which was designed using Verilog HDL. To verify its functionality, I simulated the design with a custom testbench in Xilinx Vivado.
 
-Developed as part of my VLSI Design & Verification learning journey, this project highlights RTL design, simulation, and functional verification.
-Features
-ALU Supports
-sel	Operation
-000	Addition (A + B)
-001	Subtraction (A - B)
-010	Bitwise AND
-011	Bitwise OR
-100	Bitwise XOR
-101	Bitwise NOT (~A)
-110	Left Shift (A << 1)
-111	Right Shift (A >> 1)
-Tools & Environment
-Verilog HDL
-Xilinx Vivado 2020.1
-Behavioral Simulation
-<img width="1398" height="634" alt="image" src="https://github.com/user-attachments/assets/0ac4f4cf-16e1-40b1-a243-eff944d6f271" />
+The ALU is a fundamental component found in almost all digital processors. It is responsible for performing arithmetic and logical operations, which are selected by a control signal (sel). I developed this project as part of my learning journey in VLSI Design & Verification.
+
+🛠️ Tools & Project Files
+Language: Verilog HDL
+
+Software: Xilinx Vivado 2020.1 (Behavioral Simulation)
+
+🎯 Learning Outcomes
+While working on this project, I gained hands-on experience in several key areas:
+
+Writing clean and synthesizable Verilog HDL code.
+
+Understanding combinational logic design and RTL development workflows.
+
+Creating testbenches to run functional verification and debugging errors in Vivado.
+
+🔮 Future Improvements
+In the next version of this project, I am planning to add the following features:
+
+Status Flags: Implementation of Carry-Out, Zero, and Overflow detection flags.
+
+Parameterization: Modifying the code so that the data width can be easily changed.
+
+Advanced Verification: Writing a more robust testbench using SystemVerilog.
