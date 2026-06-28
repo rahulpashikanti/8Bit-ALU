@@ -1,4 +1,5 @@
 🚀 8-Bit Arithmetic Logic Unit (ALU) using Verilog
+
 📌 Project Overview
 This project focuses on the implementation of an 8-Bit Arithmetic Logic Unit (ALU), which was designed using Verilog HDL. To verify its functionality, I simulated the design with a custom testbench in Xilinx Vivado.
 
