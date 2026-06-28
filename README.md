@@ -25,8 +25,8 @@ In the next version of this project, I am planning to add the following features
 ---
 
 ## 👨‍💻 Author
-**Rahul Pashikanti** *Aspiring VLSI Design Verification Engineer* * **Areas of Interest:** VLSI Design, Design Verification,RTL Design
+**Rahul Pashikanti** Aspiring VLSI Design Verification Engineer* * **Areas of Interest:** VLSI Design, Design Verification,RTL Design.
 * **Connect with Me:** [GitHub Profile](https://github.com/rahulpashikanti) | [LinkedIn Profile](linkedin.com/in/rahul-pashikanti-b818bb245)
 
 ---
-*⭐ If you found this project helpful, please consider giving this repository a star!*
+
