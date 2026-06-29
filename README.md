@@ -8,7 +8,7 @@ The ALU is a fundamental component found in almost all digital processors. It is
 
 ## 🛠️ Tools & Project Files
 * **Language:** Verilog HDL
-* **Software:** Xilinx Vivado 2020.1 (Behavioral Simulation)
+* **Software:** Xilinx Vivado 2026.1 (Behavioral Simulation)
 
 ## 🎯 Learning Outcomes
 While working on this project, I gained hands-on experience in several key areas:
